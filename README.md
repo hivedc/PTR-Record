@@ -1,4 +1,5 @@
-# PTR-Record
+# PTR Generator
 
-Creation des commandes pour la liste des ip en reverses PTR.
+Command generator to create PTR records
+Used for powerdns
 
