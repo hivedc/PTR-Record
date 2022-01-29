@@ -1,8 +1,8 @@
 #!/bin/bash
-echo 'Rentrer les 3 premiers bloc inverses'
-echo 'Ex : 45.154.168.0/24 168.154.45'
+echo 'Input the 3 first bytes of your /24 in reverse '
+echo 'Ex : 45.154.168.0/24 = 168.154.45'
 read bloc
-echo 'Nom de domaine : '
+echo 'Domain name : '
 read tld
 
 for i in {0..255}
